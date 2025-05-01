@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+  }
+
+
+.center {
+    /*background-color: rgba(255, 255, 255, 0.3); */
+    margin:auto;
+    width:fit-content;
+    padding: 5px;
+    text-align: center;
+    color:black;
+
+}
+
+
+div button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 2px 2px black;
+}
+
+
+body {
+    background-color: rgb(255, 241, 148);
+}
+
+.flexcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+
+}
+
+.flexcontainer p {
+    text-align: center;
+    padding-top: 15px;
+    margin: 2px;
+    background-image: url(images/rectangle.png);
+    background-color: white;
+    background-size: 100% 100%;
+}
