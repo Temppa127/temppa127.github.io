@@ -1,3 +1,18 @@
+
+body::before {
+    content: url(/images/elephant-seal.jpg);
+    content: url(/images/seal1.jfif);
+    content: url(/images/seal2.jfif);
+    content: url(/images/seal3.jpg);
+    content: url(/images/seal4.webp);
+    content: url(/images/seal5.jfif);
+    content: url(/images/seal6.jfif);
+    content: url(/images/seal7.jfif);
+    content: url(/images/seal8.jpg);
+    display: none;
+}
+
+
 #body {
     background-color:lightblue;
 }
