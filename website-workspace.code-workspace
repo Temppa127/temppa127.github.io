@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CSS",
+			"path": "../nodeJS/public/CSS"
+		},
+		{
+			"name": "oobsite",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
